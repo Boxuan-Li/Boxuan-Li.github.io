@@ -1,7 +1,7 @@
 ---
-title: "p8105_hw4_bl2689-Personal Page"
-author: "Boxuan Li"
-date: "10/23/2017"
-output: html_document
+title: "Personal Website for Boxuan Li"
 ---
 
+### I have a webpage!
+
+And I can put all kinds of stuff on it!
