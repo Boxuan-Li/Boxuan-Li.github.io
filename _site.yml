@@ -1,10 +1,10 @@
-name: "Personal Page of Boxuan Li"
+name: "Personal Website of Boxuan Li"
 output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
+    - text: "Resume"
+      href: <img src="images/Resume.jpg" style="width:75%">
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg

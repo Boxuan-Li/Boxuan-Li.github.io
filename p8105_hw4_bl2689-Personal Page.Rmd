@@ -1,7 +1,7 @@
 ---
-title: "Personal Website for Boxuan Li"
+title: "Personal Website of Boxuan Li"
 ---
 
-### I have a webpage!
+### Welcome to my website
 
 And I can put all kinds of stuff on it!
