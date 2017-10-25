@@ -1,4 +1,12 @@
 ---
-title: "experience"
+title: "Experience"
 ---
 
+__This page includes my academic and professional experience, i.e. the resume of mine, as well as some extracurricular activities and experiences that are not incorporated in the resume.__
+
+_Resume_
+
+<img src="./images/resume.png" style="width:75%">
+
+
+_Extracurricular experiences_
