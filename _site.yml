@@ -1,10 +1,26 @@
 name: "Personal Website of Boxuan Li"
 navbar:
-  title: "My Website"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About"
+      icon: fa-info
       href: about.html
+  right:
+    - text: "Experience"
+      icon: fa-file-text-o
+      href: experience.html
+    - text: "Contact"
+      menu:
+        - text: "Phone number and E-mail address"
+          icon: fa-phone
+          href: contact.html
+        - text: "GitHub account"
+          icon: fa-github
+          href: https://github.com/Boxuan-Li
+        - text: "Linkedin account"
+          icon: fa-linkedin
+          href: https://www.linkedin.com/in/boxuan-li-42413214a/
 output:
   html_document
