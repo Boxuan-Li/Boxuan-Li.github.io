@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-### About this site
+This is the personal website of Boxuan Li, built through the R markdown website function. The RStudio used to create this website is in the version 1.1.383. 
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+In this website, you can obtain the basic introduction about the contents in the Home page. And this websites also incorporates a navigation bar with the links to my resume and some interesting experiences that I had before. And my contact information, e.g. my phone number, email address, GitHub account and Linkedin account, are included on the right of the navigation bar as well.
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+Again, thanks for visiting my website and may you find something helpful!

@@ -1,13 +1,10 @@
 name: "Personal Website of Boxuan Li"
-output_dir: "."
 navbar:
-  title: "Home"
-  right:
-    - text: "Resume"
-      href: <img src="images/Resume.jpg" style="width:75%">
-    - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
 output:
   html_document
