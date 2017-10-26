@@ -1,4 +1,5 @@
 name: "Personal Website of Boxuan Li"
+ourput_dir: "."
 navbar:
   left:
     - text: "Home"
