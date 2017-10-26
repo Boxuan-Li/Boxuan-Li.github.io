@@ -24,4 +24,9 @@ navbar:
           icon: fa-linkedin
           href: https://www.linkedin.com/in/boxuan-li-42413214a/
 output:
-  html_document
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+    after_body: footer.html
+    css: styles.css
