@@ -1,5 +1,8 @@
 ---
 title: "About"
+font-family: Helvetica;
+font-size: 16pt;
+
 ---
 
 This is the personal website of Boxuan Li, built through the R markdown website function. The RStudio used to create this website is in the version 1.1.383. 
