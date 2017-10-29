@@ -2,6 +2,11 @@
 title: "Personal Website of Boxuan Li"
 ---
 
-### Welcome to my website!
+<img src="images/homepage pic.jpg" style="width:68%">
+
+_MS in Biostatistics, Mailman School of Public Health, Columbia University in the City of New York._
+
+
+__Welcome! Thanks for visiting my website. I'am Boxuan Li from China, now studying biostatistics in the Columbia University. In this website, you may learn more about me by looking through different pages including my introduction, academic experiences and some interests. And you can also contact with me in multiple ways by clicking "Contact" on the navigation bar. Wish you could find something helpful!__ 
 
 

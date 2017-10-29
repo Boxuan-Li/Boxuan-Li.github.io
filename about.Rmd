@@ -1,12 +1,11 @@
 ---
 title: "About"
 font-family: Helvetica;
-font-size: 55pt;
-
+font-size: 30pt;
 ---
 
-This is the personal website of Boxuan Li, built through the R markdown website function. The RStudio used to create this website is in the version 1.1.383. 
+This personal website, built through the R markdown website function. The RStudio used to create this website is in the version 1.1.383. And it is hosted on the GitHub, where you are able to find the original codes of this website.
 
-In this website, you can obtain the basic introduction about the contents in the Home page. And this websites also incorporates a navigation bar with the links to my resume and some interesting experiences that I had before. And my contact information, e.g. my phone number, email address, GitHub account and Linkedin account, are included on the right of the navigation bar as well.
+In this website, you can obtain the basic introduction about the contents in the Home page. And it also incorporates a navigation bar with the links to my resume and some interesting experiences that I had before. And my contact information, e.g. my phone number, email address, GitHub account and Linkedin account, are included on the right of the navigation bar as well.
 
 Again, thanks for visiting my website and may you find something helpful!
